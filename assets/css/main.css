@@ -2705,7 +2705,7 @@ input, select, textarea {
 			content: '';
 			left: 50%;
 			position: absolute;
-			width: 1px;
+			width: 0px;
 			z-index: 0;
 		}
 
